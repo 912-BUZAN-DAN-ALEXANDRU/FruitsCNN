@@ -18,7 +18,8 @@ TKinter
 Jupyter Notebooks, Tensorflow, Keras, Numpy, pandas
 ---
 # Features
-1. The images are uploaded from the computer using "Incarca o imagine" button and then classified by pressing "Cauta" button.
+1. The images are uploaded from the computer using "Incarca o imagine" button and then classified by pressing "Cauta" button. <br>
+![ui-1](https://github.com/912-BUZAN-DAN-ALEXANDRU/FruitsCNN/blob/master/Screenshot%202020-06-09%20at%2019.02.42.png)
 
 ---
 # Problems
