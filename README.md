@@ -22,7 +22,7 @@ Jupyter Notebooks, Tensorflow, Keras, Numpy, pandas
 
 ---
 # Problems
-1. The model is inaccurate sometimes <br>
+1. The model is inaccurate sometimes ![https://github.com/912-BUZAN-DAN-ALEXANDRU/FruitsCNN/blob/master/Screenshot%202020-05-10%20at%2000.04.02.png]<br>
 2. The UI is boring and simplistic <br>
 
 ---
