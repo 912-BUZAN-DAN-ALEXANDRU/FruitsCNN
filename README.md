@@ -1,6 +1,6 @@
 # FruitsCNN
 ## a Convolutional Neural Net for over 120 classes of fruits and vegetables 
-#![Detailed documentation](https://github.com/912-BUZAN-DAN-ALEXANDRU/FruitsCNN/Documentation.pdf)
+#[Detailed documentation](https://github.com/912-BUZAN-DAN-ALEXANDRU/FruitsCNN/blob/master/Documentation.pdf)
 ---
 
 # Description
